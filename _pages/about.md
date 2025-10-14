@@ -14,7 +14,7 @@ My fields of interest are econometric theory with a focus on partial identificat
 
 Contact: kfang016@ucr.edu
 
-Last update: October 20 2025
+Last update: October 15 2025
 
 
 A data-driven personal website
