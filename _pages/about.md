@@ -21,5 +21,3 @@ Email: kfang016@ucr.edu
 
 Last update: October 15 2025
 
-# Site-wide configuration
-# ------
