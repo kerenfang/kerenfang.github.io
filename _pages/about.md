@@ -11,7 +11,7 @@ I'm currently a PhD candidate from University of California at Riverside.
 My fields of interest are econometric theory with a focus on partial identification, microeconomic theory, industrial organization.
 Contact: kfang016@ucr.edu
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
 
 A data-driven personal website
 ======
