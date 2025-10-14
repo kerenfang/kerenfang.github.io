@@ -24,9 +24,9 @@ repository               : "kerenfang/kerenfang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : # "Keren (Colin) Fang"
+  name             :  "Keren (Colin) Fang"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              :  "Fiat Lux"
   location         : # "Earth"
   employer         : # "University of California at Riverside"
   uri              : # URL
