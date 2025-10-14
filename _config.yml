@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Keren (Colin) Fang"
+  name             : # "Keren (Colin) Fang"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : # "Earth"
-  employer         : "University of California at Riverside"
+  employer         : # "University of California at Riverside"
   uri              : # URL
   email            : # "none@example.org" 
 
@@ -261,10 +261,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _publications
   - scope:
       path: ""
-      type: research
+      type: publications
     values:
       layout: single
       author_profile: true
