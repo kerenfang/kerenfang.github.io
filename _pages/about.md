@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm currently a PhD candidate from University of California at Riverside.
+I'm currently a PhD candidate from Department of Economics of University of California at Riverside.
 
 My fields of interest are econometric theory with a focus on partial identification, microeconomic theory, industrial organization.
 
