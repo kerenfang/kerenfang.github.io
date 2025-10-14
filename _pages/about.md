@@ -12,7 +12,7 @@ I'm currently a PhD candidate from Department of Economics of University of Cali
 
 My fields of interest are econometric theory with a focus on partial identification, microeconomic theory, industrial organization.
 
-You can find my Vita here: [CV](https://github.com/kerenfang/kerenfang.github.io/assets/Keren Fang.pdf)
+You can find my Vita here: [CV](https://github.com/kerenfang/kerenfang.github.io/assets/KerenFang.pdf)
 
 
 Contact Information
