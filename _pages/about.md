@@ -20,6 +20,10 @@ Abstract: This paper develops a method to construct confidence set for partially
 
 You can find my Job Market Paper here: [JMP](https://kerenfang.github.io/assets/JMP.pdf)
 
+**Working in Progress: Adaptive Test for Conditional Moment Inequalities with Nuisance Functions**
+
+
+
 Contact Information
 ======
 Email: kfang016@ucr.edu
